@@ -1,7 +1,7 @@
 # Desafios - DIO
 ---
 ## Desafio "Fábrica de Carros:
-Código feito como forma de resolução do desafio "Fábrica de Carros" do BootCampo Banco PAN, na DIO.
+Código feito como forma de resolução do desafio "Fábrica de Carros" do BootCamp Banco PAN - JAVA, na DIO.
 
 **Desafio:**
 
