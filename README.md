@@ -1,16 +1,16 @@
 # Desafios - DIO
 ---
-##Desafio "Fábrica de Carros:
-Código feito como forma de resolução do desafio "Fábrica de Carros" do BootCampo Banco PAN, na DIO.
+## Desafio "FÃ¡brica de Carros:
+CÃ³digo feito como forma de resoluÃ§Ã£o do desafio "FÃ¡brica de Carros" do BootCampo Banco PAN, na DIO.
 
 **Desafio:**
 
-O custo de um carro novo ao consumidor é a soma do custo de fábrica com a porcentagem do distribuidor e dos impostos (aplicados ao custo de fábrica). O gerente de uma loja de carros gostaria de um programa para calcular o preço de um carro novo para os clientes. Você receberá o custo de fábrica e as porcentagens referentes ao distribuidor e os impostos e deverá escrever programa para ler esses valores e imprimir o valor final do carro.
+O custo de um carro novo ao consumidor Ã© a soma do custo de fÃ¡brica com a porcentagem do distribuidor e dos impostos (aplicados ao custo de fÃ¡brica). O gerente de uma loja de carros gostaria de um programa para calcular o preÃ§o de um carro novo para os clientes. VocÃª receberÃ¡ o custo de fÃ¡brica e as porcentagens referentes ao distribuidor e os impostos e deverÃ¡ escrever programa para ler esses valores e imprimir o valor final do carro.
 
 **Entrada**
 
-Você recebera três valores inteiros que representam o custo de fábrica, as porcentagens do distribuidor e os impostos.
+VocÃª recebera trÃªs valores inteiros que representam o custo de fÃ¡brica, as porcentagens do distribuidor e os impostos.
 
-**Saída**
+**SaÃ­da**
 
-Como saída, teremos o valor final do preço de um carro novo.
+Como saÃ­da, teremos o valor final do preÃ§o de um carro novo.
